@@ -5,7 +5,7 @@ This repository contains all my submissions for the Java Project class.
 ## Weekly Submissions
 
 -   **Week 02:** [Link to Week 2 Folder](./week02) - *Introduction to Java Swing and Event Handler Implementation*
--   **Week 03:**
+-   **Week 03:** [Link to Week 3 Folder](./week03) - *Handling Various Events and Component Data Exchange*
 -   **Week 04:**
 -   **Week 05:**
 -   **Week 06:**
